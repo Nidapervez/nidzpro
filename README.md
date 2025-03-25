@@ -1,19 +1,4 @@
-<!-- GitHub Profile README -->
-<style>
-  body {
-    background-color: #000;
-    color: #fff;
-    font-family: 'Fira Code', monospace;
-    text-align: center;
-  }
-  .tech-icons img, .social-icons a img {
-    margin: 5px;
-    transition: transform 0.3s;
-  }
-  .tech-icons img:hover, .social-icons a img:hover {
-    transform: scale(1.1);
-  }
-</style>
+
 
 <h1 align="center">Hi 👋, I'm Nida Pervez</h1>
 <h3 align="center">Frontend Developer from Pakistan</h3>
